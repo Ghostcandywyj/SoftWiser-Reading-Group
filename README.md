@@ -6,3 +6,4 @@ Softwiser Reading Group is a data mining and soft mining reading group at NJU.
 ### Schedule for 2019 fall:
 | Date | Presenter | Topic(s) | Material |
 | --- | --- | --- | --- |
+| 2019/10/24 | = | = | = |  
