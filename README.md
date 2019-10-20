@@ -6,7 +6,7 @@ Softwiser Reading Group is a data mining and soft mining reading group at NJU.
 ### Schedule for 2019 fall:
 | Date | Presenter(s) | Topic(s) | Material |
 | --- | --- | --- | --- |
-| 2019/10/22 | Xinchen Guo | = code search | = https://guxd.github.io/papers/deepcs.pdf | 
+| 2019/10/22 | Xinchen Guo | code search | https://guxd.github.io/papers/deepcs.pdf | 
 | 2019/10/29 |  |  |  |
 | 2019/11/05 |  |  |  |
 | 2019/11/12 |  |  |  |
