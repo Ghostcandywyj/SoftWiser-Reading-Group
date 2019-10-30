@@ -7,7 +7,7 @@ Softwiser Reading Group is a data mining and soft mining reading group at NJU.
 | Date | Presenter(s) | Topic(s) | Material |
 | --- | --- | --- | --- |
 | 2019/10/22 | Xinchen Guo | code search | https://guxd.github.io/papers/deepcs.pdf | 
-| 2019/10/29 |  |  |  |
+| T B D | Shengbin Xu | Adversarial Sample Detection | https://arxiv.org/pdf/1812.05793 |
 | 2019/11/05 |  |  |  |
 | 2019/11/12 |  |  |  |
 | 2019/11/19 |  |  |  |
