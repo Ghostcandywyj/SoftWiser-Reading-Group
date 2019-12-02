@@ -12,7 +12,7 @@ Softwiser Reading Group is a data mining and soft mining reading group at NJU.
 | 2019/11/13 | Yaojing Wang | Fast Network Embedding | [\[Paper\]](https://github.com/Ghostcandywyj/SoftWiser-Reading-Group/raw/master/tmp/p399-chenA.pdf) [\[ref1-Random Projection\]](https://users.math.msu.edu/users/markiwen/Teaching/MTH995/Papers/JL_Database_Subgaussian.pdf) [\[ref2-Frobenius-Perron Theorem\]](https://math.uchicago.edu/~may/VIGRE/VIGRE2007/REUPapers/FINALAPP/Khim.pdf)|
 | 2019/11/19 | - | - | - |
 | 2019/11/27 | Xinchen Guo | Anomaly Detection | https://arxiv.org/pdf/1904.02639.pdf |
-| 2019/12/03 |  |  |  |
+| 2019/12/03 | Shengbin Xu | Method Names Recommendation | https://liuhuigmail.github.io/2019ASE.pdf |
 | 2019/12/10 |  |  |  |
 | 2019/12/17 |  |  |  |
 | 2019/12/24 |  |  |  |
