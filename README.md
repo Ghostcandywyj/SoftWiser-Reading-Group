@@ -13,7 +13,7 @@ Softwiser Reading Group is a data mining and soft mining reading group at NJU.
 | 2019/11/19 | - | - | - |
 | 2019/11/27 | Xinchen Guo | Anomaly Detection | https://arxiv.org/pdf/1904.02639.pdf |
 | 2019/12/03 | Shengbin Xu | Method Names Recommendation | https://liuhuigmail.github.io/2019ASE.pdf |
-| 2019/12/10 |  |  |  |
-| 2019/12/17 |  |  |  |
+| 2019/12/10 | - | - | - |
+| 2019/12/17 | Shengqu Xi | GefDroid: Graph Embedding for Malware Classification | [\[Paper\]](https://dl.acm.org/citation.cfm?id=3339603) |
 | 2019/12/24 |  |  |  |
 | 2019/12/31 |  |  |  |
